@@ -178,3 +178,7 @@ Here is an example of simple sentence structures.
     </assistant:output>
 </example>
 
+## Last Checks 
+
+- Make sure you read all the example files and tell me that you have.
+- Make sure you check how many columns there are in the vocab table.
