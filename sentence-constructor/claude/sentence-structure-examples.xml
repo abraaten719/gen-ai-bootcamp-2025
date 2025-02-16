@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sentenceStructures>
+    <examples>
+        <sentence type="simple">
+            <pattern>[Subject][Adjective]</pattern>
+            <example>The bird is black.</example>
+        </sentence>
+
+        <sentence type="location">
+            <pattern>[Location][Subject][Verb]</pattern>
+            <example>The raven is in the garden.</example>
+        </sentence>
+
+        <sentence type="command">
+            <pattern>[Location][Object][Verb]</pattern>
+            <example>Put the garbage in the garden.</example>
+        </sentence>
+
+        <sentence type="question">
+            <pattern>[Subject][Object][Verb]?</pattern>
+            <example>Did you see the raven?</example>
+        </sentence>
+
+        <sentence type="temporal">
+            <pattern>[Time][Subject][Object][Verb]</pattern>
+            <example>This morning, I saw the raven.</example>
+        </sentence>
+
+        <sentence type="simple_question">
+            <pattern>[Subject][Verb]?</pattern>
+            <example>Are you going?</example>
+        </sentence>
+
+        <sentence type="object_question">
+            <pattern>[Object][Verb]?</pattern>
+            <example>Did you eat the food?</example>
+        </sentence>
+
+        <sentence type="action_location">
+            <pattern>[Subject][Verb][Location]</pattern>
+            <example>The raven is looking at the garden.</example>
+        </sentence>
+
+        <sentence type="compound">
+            <pattern>[Location][Subject][Verb][Object][Verb]</pattern>
+            <example>The raven is in the garden, and it is looking at the flowers.</example>
+        </sentence>
+
+        <sentence type="complex">
+            <pattern>[Time][Subject][Object][Verb][Reason][Subject][Verb]</pattern>
+            <example>I saw the raven because it was loud.</example>
+        </sentence>
+    </examples>
+</sentenceStructures>
+
