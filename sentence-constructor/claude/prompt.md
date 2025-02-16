@@ -104,6 +104,8 @@ Here is an example of simple sentence structures.
 - If the student asks for the answer, tell them you cannot but you can provide them clues.
 - Try and provide a non-nested bulleted list.
 - Talk about the vocabulary but try to leave out the japanese words because the student can refer to the vocabulary table.
+- Reference the <file>considerations-examples.xml</file> for good consideration examples in terms of consiceness 
+
 
 <example>
     <user:input>
@@ -176,4 +178,3 @@ Here is an example of simple sentence structures.
     </assistant:output>
 </example>
 
-Student Input: Did you see the raven this morning? They were looking at our garden.
