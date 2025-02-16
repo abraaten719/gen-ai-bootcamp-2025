@@ -110,7 +110,7 @@ Here is an example of simple sentence structures.
         | to leave | (JP Char) | Transitive Godan Verb |
 
         Sentence structure:
-        [Location] [Subject] [Verb], [Object] [Verb-past]
+        [Location] [Subject] [Verb], [Object] [Verb]
 
         Considerations: 
         - This is a compound sentence with two parts connected by a comma
